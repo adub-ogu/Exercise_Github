@@ -1,5 +1,8 @@
 def hello_function():
-    print("hello, this is a test.")
+    print("Hello, this is a test.")
 
+def goodbye_function():
+    print("Goodbye!")
 if __name__ == "__main__":
     hello_function()
+    goodbye_function()
